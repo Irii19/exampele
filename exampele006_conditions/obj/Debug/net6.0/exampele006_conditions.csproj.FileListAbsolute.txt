@@ -1,0 +1,15 @@
+C:\Users\bobza\OneDrive\Рабочий стол\GeekBrains\c#\exampeles\exampele006_conditions\bin\Debug\net6.0\exampele006_conditions.exe
+C:\Users\bobza\OneDrive\Рабочий стол\GeekBrains\c#\exampeles\exampele006_conditions\bin\Debug\net6.0\exampele006_conditions.deps.json
+C:\Users\bobza\OneDrive\Рабочий стол\GeekBrains\c#\exampeles\exampele006_conditions\bin\Debug\net6.0\exampele006_conditions.runtimeconfig.json
+C:\Users\bobza\OneDrive\Рабочий стол\GeekBrains\c#\exampeles\exampele006_conditions\bin\Debug\net6.0\exampele006_conditions.dll
+C:\Users\bobza\OneDrive\Рабочий стол\GeekBrains\c#\exampeles\exampele006_conditions\bin\Debug\net6.0\exampele006_conditions.pdb
+C:\Users\bobza\OneDrive\Рабочий стол\GeekBrains\c#\exampeles\exampele006_conditions\obj\Debug\net6.0\exampele006_conditions.csproj.AssemblyReference.cache
+C:\Users\bobza\OneDrive\Рабочий стол\GeekBrains\c#\exampeles\exampele006_conditions\obj\Debug\net6.0\exampele006_conditions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bobza\OneDrive\Рабочий стол\GeekBrains\c#\exampeles\exampele006_conditions\obj\Debug\net6.0\exampele006_conditions.AssemblyInfoInputs.cache
+C:\Users\bobza\OneDrive\Рабочий стол\GeekBrains\c#\exampeles\exampele006_conditions\obj\Debug\net6.0\exampele006_conditions.AssemblyInfo.cs
+C:\Users\bobza\OneDrive\Рабочий стол\GeekBrains\c#\exampeles\exampele006_conditions\obj\Debug\net6.0\exampele006_conditions.csproj.CoreCompileInputs.cache
+C:\Users\bobza\OneDrive\Рабочий стол\GeekBrains\c#\exampeles\exampele006_conditions\obj\Debug\net6.0\exampele006_conditions.dll
+C:\Users\bobza\OneDrive\Рабочий стол\GeekBrains\c#\exampeles\exampele006_conditions\obj\Debug\net6.0\refint\exampele006_conditions.dll
+C:\Users\bobza\OneDrive\Рабочий стол\GeekBrains\c#\exampeles\exampele006_conditions\obj\Debug\net6.0\exampele006_conditions.pdb
+C:\Users\bobza\OneDrive\Рабочий стол\GeekBrains\c#\exampeles\exampele006_conditions\obj\Debug\net6.0\exampele006_conditions.genruntimeconfig.cache
+C:\Users\bobza\OneDrive\Рабочий стол\GeekBrains\c#\exampeles\exampele006_conditions\obj\Debug\net6.0\ref\exampele006_conditions.dll
