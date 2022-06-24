@@ -1,0 +1,15 @@
+C:\Users\bobza\OneDrive\Рабочий стол\GeekBrains\c#\exampeles\exampele008_while\bin\Debug\net6.0\exampele008_while.exe
+C:\Users\bobza\OneDrive\Рабочий стол\GeekBrains\c#\exampeles\exampele008_while\bin\Debug\net6.0\exampele008_while.deps.json
+C:\Users\bobza\OneDrive\Рабочий стол\GeekBrains\c#\exampeles\exampele008_while\bin\Debug\net6.0\exampele008_while.runtimeconfig.json
+C:\Users\bobza\OneDrive\Рабочий стол\GeekBrains\c#\exampeles\exampele008_while\bin\Debug\net6.0\exampele008_while.dll
+C:\Users\bobza\OneDrive\Рабочий стол\GeekBrains\c#\exampeles\exampele008_while\bin\Debug\net6.0\exampele008_while.pdb
+C:\Users\bobza\OneDrive\Рабочий стол\GeekBrains\c#\exampeles\exampele008_while\obj\Debug\net6.0\exampele008_while.csproj.AssemblyReference.cache
+C:\Users\bobza\OneDrive\Рабочий стол\GeekBrains\c#\exampeles\exampele008_while\obj\Debug\net6.0\exampele008_while.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bobza\OneDrive\Рабочий стол\GeekBrains\c#\exampeles\exampele008_while\obj\Debug\net6.0\exampele008_while.AssemblyInfoInputs.cache
+C:\Users\bobza\OneDrive\Рабочий стол\GeekBrains\c#\exampeles\exampele008_while\obj\Debug\net6.0\exampele008_while.AssemblyInfo.cs
+C:\Users\bobza\OneDrive\Рабочий стол\GeekBrains\c#\exampeles\exampele008_while\obj\Debug\net6.0\exampele008_while.csproj.CoreCompileInputs.cache
+C:\Users\bobza\OneDrive\Рабочий стол\GeekBrains\c#\exampeles\exampele008_while\obj\Debug\net6.0\exampele008_while.dll
+C:\Users\bobza\OneDrive\Рабочий стол\GeekBrains\c#\exampeles\exampele008_while\obj\Debug\net6.0\refint\exampele008_while.dll
+C:\Users\bobza\OneDrive\Рабочий стол\GeekBrains\c#\exampeles\exampele008_while\obj\Debug\net6.0\exampele008_while.pdb
+C:\Users\bobza\OneDrive\Рабочий стол\GeekBrains\c#\exampeles\exampele008_while\obj\Debug\net6.0\exampele008_while.genruntimeconfig.cache
+C:\Users\bobza\OneDrive\Рабочий стол\GeekBrains\c#\exampeles\exampele008_while\obj\Debug\net6.0\ref\exampele008_while.dll
