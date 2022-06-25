@@ -1,0 +1,15 @@
+C:\Users\bobza\OneDrive\Рабочий стол\GeekBrains\c#\exampeles\seminar1DZ2\bin\Debug\net6.0\seminar1DZ2.exe
+C:\Users\bobza\OneDrive\Рабочий стол\GeekBrains\c#\exampeles\seminar1DZ2\bin\Debug\net6.0\seminar1DZ2.deps.json
+C:\Users\bobza\OneDrive\Рабочий стол\GeekBrains\c#\exampeles\seminar1DZ2\bin\Debug\net6.0\seminar1DZ2.runtimeconfig.json
+C:\Users\bobza\OneDrive\Рабочий стол\GeekBrains\c#\exampeles\seminar1DZ2\bin\Debug\net6.0\seminar1DZ2.dll
+C:\Users\bobza\OneDrive\Рабочий стол\GeekBrains\c#\exampeles\seminar1DZ2\bin\Debug\net6.0\seminar1DZ2.pdb
+C:\Users\bobza\OneDrive\Рабочий стол\GeekBrains\c#\exampeles\seminar1DZ2\obj\Debug\net6.0\seminar1DZ2.csproj.AssemblyReference.cache
+C:\Users\bobza\OneDrive\Рабочий стол\GeekBrains\c#\exampeles\seminar1DZ2\obj\Debug\net6.0\seminar1DZ2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bobza\OneDrive\Рабочий стол\GeekBrains\c#\exampeles\seminar1DZ2\obj\Debug\net6.0\seminar1DZ2.AssemblyInfoInputs.cache
+C:\Users\bobza\OneDrive\Рабочий стол\GeekBrains\c#\exampeles\seminar1DZ2\obj\Debug\net6.0\seminar1DZ2.AssemblyInfo.cs
+C:\Users\bobza\OneDrive\Рабочий стол\GeekBrains\c#\exampeles\seminar1DZ2\obj\Debug\net6.0\seminar1DZ2.csproj.CoreCompileInputs.cache
+C:\Users\bobza\OneDrive\Рабочий стол\GeekBrains\c#\exampeles\seminar1DZ2\obj\Debug\net6.0\seminar1DZ2.dll
+C:\Users\bobza\OneDrive\Рабочий стол\GeekBrains\c#\exampeles\seminar1DZ2\obj\Debug\net6.0\refint\seminar1DZ2.dll
+C:\Users\bobza\OneDrive\Рабочий стол\GeekBrains\c#\exampeles\seminar1DZ2\obj\Debug\net6.0\seminar1DZ2.pdb
+C:\Users\bobza\OneDrive\Рабочий стол\GeekBrains\c#\exampeles\seminar1DZ2\obj\Debug\net6.0\seminar1DZ2.genruntimeconfig.cache
+C:\Users\bobza\OneDrive\Рабочий стол\GeekBrains\c#\exampeles\seminar1DZ2\obj\Debug\net6.0\ref\seminar1DZ2.dll
