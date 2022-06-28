@@ -15,7 +15,6 @@ Console.WriteLine("ведите третье (целое) число");
 int numberC = Convert.ToInt32(Console.ReadLine());
 
 
-
 if(numberA > numberB)
 {
     

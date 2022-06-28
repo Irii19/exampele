@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bobza\\OneDrive\\Рабочий стол\\GeekBrains\\c#\\exampeles\\exampeles.csproj": {}
+    "C:\\Users\\bobza\\OneDrive\\Рабочий стол\\GeekBrains\\c#\\exampeles\\seminar4\\seminar4.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bobza\\OneDrive\\Рабочий стол\\GeekBrains\\c#\\exampeles\\exampeles.csproj": {
+    "C:\\Users\\bobza\\OneDrive\\Рабочий стол\\GeekBrains\\c#\\exampeles\\seminar4\\seminar4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bobza\\OneDrive\\Рабочий стол\\GeekBrains\\c#\\exampeles\\exampeles.csproj",
-        "projectName": "exampeles",
-        "projectPath": "C:\\Users\\bobza\\OneDrive\\Рабочий стол\\GeekBrains\\c#\\exampeles\\exampeles.csproj",
+        "projectUniqueName": "C:\\Users\\bobza\\OneDrive\\Рабочий стол\\GeekBrains\\c#\\exampeles\\seminar4\\seminar4.csproj",
+        "projectName": "seminar4",
+        "projectPath": "C:\\Users\\bobza\\OneDrive\\Рабочий стол\\GeekBrains\\c#\\exampeles\\seminar4\\seminar4.csproj",
         "packagesPath": "C:\\Users\\bobza\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bobza\\OneDrive\\Рабочий стол\\GeekBrains\\c#\\exampeles\\obj\\",
+        "outputPath": "C:\\Users\\bobza\\OneDrive\\Рабочий стол\\GeekBrains\\c#\\exampeles\\seminar4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bobza\\AppData\\Roaming\\NuGet\\NuGet.Config"
