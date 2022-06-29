@@ -1,10 +1,10 @@
 ﻿// See https://aka.ms/new-console-template for more information
 Console.WriteLine("Hello, World!");
 
-int number = new Random().Next(10,100);
+int number = new Random().Next(10, 100);
 Console.WriteLine($"случайное число - {number}");
 
-int digitOne = number /10;
+int digitOne = number / 10;
 int digitTwo = number % 10;
 Console.WriteLine(digitOne);
 Console.WriteLine(digitTwo);
