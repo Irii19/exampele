@@ -1,0 +1,15 @@
+C:\Users\bobza\OneDrive\Рабочий стол\GeekBrains\c#\exampeles\reminar2.0\bin\Debug\net6.0\reminar2.0.exe
+C:\Users\bobza\OneDrive\Рабочий стол\GeekBrains\c#\exampeles\reminar2.0\bin\Debug\net6.0\reminar2.0.deps.json
+C:\Users\bobza\OneDrive\Рабочий стол\GeekBrains\c#\exampeles\reminar2.0\bin\Debug\net6.0\reminar2.0.runtimeconfig.json
+C:\Users\bobza\OneDrive\Рабочий стол\GeekBrains\c#\exampeles\reminar2.0\bin\Debug\net6.0\reminar2.0.dll
+C:\Users\bobza\OneDrive\Рабочий стол\GeekBrains\c#\exampeles\reminar2.0\bin\Debug\net6.0\reminar2.0.pdb
+C:\Users\bobza\OneDrive\Рабочий стол\GeekBrains\c#\exampeles\reminar2.0\obj\Debug\net6.0\reminar2.0.csproj.AssemblyReference.cache
+C:\Users\bobza\OneDrive\Рабочий стол\GeekBrains\c#\exampeles\reminar2.0\obj\Debug\net6.0\reminar2.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bobza\OneDrive\Рабочий стол\GeekBrains\c#\exampeles\reminar2.0\obj\Debug\net6.0\reminar2.0.AssemblyInfoInputs.cache
+C:\Users\bobza\OneDrive\Рабочий стол\GeekBrains\c#\exampeles\reminar2.0\obj\Debug\net6.0\reminar2.0.AssemblyInfo.cs
+C:\Users\bobza\OneDrive\Рабочий стол\GeekBrains\c#\exampeles\reminar2.0\obj\Debug\net6.0\reminar2.0.csproj.CoreCompileInputs.cache
+C:\Users\bobza\OneDrive\Рабочий стол\GeekBrains\c#\exampeles\reminar2.0\obj\Debug\net6.0\reminar2.0.dll
+C:\Users\bobza\OneDrive\Рабочий стол\GeekBrains\c#\exampeles\reminar2.0\obj\Debug\net6.0\refint\reminar2.0.dll
+C:\Users\bobza\OneDrive\Рабочий стол\GeekBrains\c#\exampeles\reminar2.0\obj\Debug\net6.0\reminar2.0.pdb
+C:\Users\bobza\OneDrive\Рабочий стол\GeekBrains\c#\exampeles\reminar2.0\obj\Debug\net6.0\reminar2.0.genruntimeconfig.cache
+C:\Users\bobza\OneDrive\Рабочий стол\GeekBrains\c#\exampeles\reminar2.0\obj\Debug\net6.0\ref\reminar2.0.dll
