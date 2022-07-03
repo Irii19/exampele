@@ -1,0 +1,15 @@
+C:\Users\bobza\OneDrive\Рабочий стол\GeekBrains\c#\exampeles\exampele0010\bin\Debug\net6.0\exampele0010.exe
+C:\Users\bobza\OneDrive\Рабочий стол\GeekBrains\c#\exampeles\exampele0010\bin\Debug\net6.0\exampele0010.deps.json
+C:\Users\bobza\OneDrive\Рабочий стол\GeekBrains\c#\exampeles\exampele0010\bin\Debug\net6.0\exampele0010.runtimeconfig.json
+C:\Users\bobza\OneDrive\Рабочий стол\GeekBrains\c#\exampeles\exampele0010\bin\Debug\net6.0\exampele0010.dll
+C:\Users\bobza\OneDrive\Рабочий стол\GeekBrains\c#\exampeles\exampele0010\bin\Debug\net6.0\exampele0010.pdb
+C:\Users\bobza\OneDrive\Рабочий стол\GeekBrains\c#\exampeles\exampele0010\obj\Debug\net6.0\exampele0010.csproj.AssemblyReference.cache
+C:\Users\bobza\OneDrive\Рабочий стол\GeekBrains\c#\exampeles\exampele0010\obj\Debug\net6.0\exampele0010.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bobza\OneDrive\Рабочий стол\GeekBrains\c#\exampeles\exampele0010\obj\Debug\net6.0\exampele0010.AssemblyInfoInputs.cache
+C:\Users\bobza\OneDrive\Рабочий стол\GeekBrains\c#\exampeles\exampele0010\obj\Debug\net6.0\exampele0010.AssemblyInfo.cs
+C:\Users\bobza\OneDrive\Рабочий стол\GeekBrains\c#\exampeles\exampele0010\obj\Debug\net6.0\exampele0010.csproj.CoreCompileInputs.cache
+C:\Users\bobza\OneDrive\Рабочий стол\GeekBrains\c#\exampeles\exampele0010\obj\Debug\net6.0\exampele0010.dll
+C:\Users\bobza\OneDrive\Рабочий стол\GeekBrains\c#\exampeles\exampele0010\obj\Debug\net6.0\refint\exampele0010.dll
+C:\Users\bobza\OneDrive\Рабочий стол\GeekBrains\c#\exampeles\exampele0010\obj\Debug\net6.0\exampele0010.pdb
+C:\Users\bobza\OneDrive\Рабочий стол\GeekBrains\c#\exampeles\exampele0010\obj\Debug\net6.0\exampele0010.genruntimeconfig.cache
+C:\Users\bobza\OneDrive\Рабочий стол\GeekBrains\c#\exampeles\exampele0010\obj\Debug\net6.0\ref\exampele0010.dll
