@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bobza\\OneDrive\\Рабочий стол\\GeekBrains\\c#\\exampeles\\seminar4\\seminar4.csproj",
-      "projectName": "seminar4",
-      "projectPath": "C:\\Users\\bobza\\OneDrive\\Рабочий стол\\GeekBrains\\c#\\exampeles\\seminar4\\seminar4.csproj",
+      "projectUniqueName": "C:\\Users\\bobza\\OneDrive\\Рабочий стол\\GeekBrains\\c#\\exampeles\\seminar3.1\\seminar3.1.csproj",
+      "projectName": "seminar3.1",
+      "projectPath": "C:\\Users\\bobza\\OneDrive\\Рабочий стол\\GeekBrains\\c#\\exampeles\\seminar3.1\\seminar3.1.csproj",
       "packagesPath": "C:\\Users\\bobza\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bobza\\OneDrive\\Рабочий стол\\GeekBrains\\c#\\exampeles\\seminar4\\obj\\",
+      "outputPath": "C:\\Users\\bobza\\OneDrive\\Рабочий стол\\GeekBrains\\c#\\exampeles\\seminar3.1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\bobza\\AppData\\Roaming\\NuGet\\NuGet.Config"
