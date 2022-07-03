@@ -72,12 +72,12 @@ int Max(int arg1, int arg2, int arg3)
     return result;
 }
 //             0   1   2   3    4   5   6   7   8
-int[] arrey = {11, 21, 31, 41, 15, 61, 17, 18, 19};
+int[] arrey = {11, 211, 31, 41, 15, 61, 17, 18, 19};
 arrey[0] = 12; // новое значения индека "0"
 Console.WriteLine(arrey[0]);  // вывод индекса значения "0"
 Console.WriteLine(); // пустая строчка
 Console.WriteLine(arrey[2]);// вывод индекса значения "2"
-Console.WriteLine();
+Console.WriteLine(); // вывод индекса значения "0"
 for (int i = 0; i < arrey.Length; i++) // пересчёт массива
 {
     Console.WriteLine(arrey[i]); // вывод нового массива
