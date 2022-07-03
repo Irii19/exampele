@@ -1,0 +1,15 @@
+C:\Users\bobza\OneDrive\Рабочий стол\GeekBrains\c#\exampeles\exampels008.1\bin\Debug\net6.0\exampels008.1.exe
+C:\Users\bobza\OneDrive\Рабочий стол\GeekBrains\c#\exampeles\exampels008.1\bin\Debug\net6.0\exampels008.1.deps.json
+C:\Users\bobza\OneDrive\Рабочий стол\GeekBrains\c#\exampeles\exampels008.1\bin\Debug\net6.0\exampels008.1.runtimeconfig.json
+C:\Users\bobza\OneDrive\Рабочий стол\GeekBrains\c#\exampeles\exampels008.1\bin\Debug\net6.0\exampels008.1.dll
+C:\Users\bobza\OneDrive\Рабочий стол\GeekBrains\c#\exampeles\exampels008.1\bin\Debug\net6.0\exampels008.1.pdb
+C:\Users\bobza\OneDrive\Рабочий стол\GeekBrains\c#\exampeles\exampels008.1\obj\Debug\net6.0\exampels008.1.csproj.AssemblyReference.cache
+C:\Users\bobza\OneDrive\Рабочий стол\GeekBrains\c#\exampeles\exampels008.1\obj\Debug\net6.0\exampels008.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bobza\OneDrive\Рабочий стол\GeekBrains\c#\exampeles\exampels008.1\obj\Debug\net6.0\exampels008.1.AssemblyInfoInputs.cache
+C:\Users\bobza\OneDrive\Рабочий стол\GeekBrains\c#\exampeles\exampels008.1\obj\Debug\net6.0\exampels008.1.AssemblyInfo.cs
+C:\Users\bobza\OneDrive\Рабочий стол\GeekBrains\c#\exampeles\exampels008.1\obj\Debug\net6.0\exampels008.1.csproj.CoreCompileInputs.cache
+C:\Users\bobza\OneDrive\Рабочий стол\GeekBrains\c#\exampeles\exampels008.1\obj\Debug\net6.0\exampels008.1.dll
+C:\Users\bobza\OneDrive\Рабочий стол\GeekBrains\c#\exampeles\exampels008.1\obj\Debug\net6.0\refint\exampels008.1.dll
+C:\Users\bobza\OneDrive\Рабочий стол\GeekBrains\c#\exampeles\exampels008.1\obj\Debug\net6.0\exampels008.1.pdb
+C:\Users\bobza\OneDrive\Рабочий стол\GeekBrains\c#\exampeles\exampels008.1\obj\Debug\net6.0\exampels008.1.genruntimeconfig.cache
+C:\Users\bobza\OneDrive\Рабочий стол\GeekBrains\c#\exampeles\exampels008.1\obj\Debug\net6.0\ref\exampels008.1.dll
