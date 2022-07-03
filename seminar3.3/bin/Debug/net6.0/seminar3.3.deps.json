@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "seminarDZ1/1.0.0": {
+      "seminar3.3/1.0.0": {
         "runtime": {
-          "seminarDZ1.dll": {}
+          "seminar3.3.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "seminarDZ1/1.0.0": {
+    "seminar3.3/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
