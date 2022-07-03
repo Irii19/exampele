@@ -1,4 +1,4 @@
-﻿void FillArray(int[] collection)
+﻿void FillArray(int[] collection)     // метод (функция) заполнения масива рамдомными числами от 1 до 10
 {
     int length = collection.Length;
     int index = 0;
@@ -10,7 +10,7 @@
 
 }
 
-void PrintArrey(int[] coll)
+void PrintArrey(int[] coll)      // метод (функция) печать масива
 {
     int count = coll.Length;
     int position = 0;
@@ -21,7 +21,7 @@ void PrintArrey(int[] coll)
     }
 }
 
-int IndexOf(int[] collection, int find)
+int IndexOf(int[] collection, int find)  // метод (функция) нахождения значения
 {
     int count = collection.Length;
     int index = 0;
@@ -31,20 +31,20 @@ int IndexOf(int[] collection, int find)
         if(collection[index] == find)
         {
             position = index;
-            break;
+            break;                       // остановка поика значения индекса на первом совпадении
         }
         index++;
     }
     return position;
 }
 
-int[] array = new int[10];
+int[] array = new int[10];  // пустой массив
 
-FillArray(array);
-array[4] = 4;
-array[6] = 4;
-PrintArrey(array);
+FillArray(array);           // заполнени массива
+array[2] = 4;              // замена значения индекса "2" масива назначение "4"
+array[6] = 7;               //  замена значения индекса "6" масива на значение "7"
+PrintArrey(array);     // печать массива
 Console.WriteLine();
 
-int pos = IndexOf(array, 4);
-Console.WriteLine(pos);
+int pos = IndexOf(array, 4); // поиск число "4" по индексам массива
+Console.WriteLine(pos); // вывод индекса "" со значением "4"
