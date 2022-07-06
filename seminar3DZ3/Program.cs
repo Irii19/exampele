@@ -7,9 +7,17 @@ Console.WriteLine("введите число");
 
 int n = Convert.ToInt32(Console.ReadLine());
 
-for( int i = 1 ; i<=n; i++)
-{
+// for( int i = 1 ; i<=n; i++)
+// {
     
-    Console.WriteLine($"число {i} в кубе = {i*i*i}");
-}
+//     Console.WriteLine($"число {i} в кубе = {i*i*i}");
+// }
 
+int i = 0;
+
+while (i<n)
+{
+    i++;
+    int x = i*i*i;
+    Console.WriteLine($"число {i} в кубе = {x}");
+}
