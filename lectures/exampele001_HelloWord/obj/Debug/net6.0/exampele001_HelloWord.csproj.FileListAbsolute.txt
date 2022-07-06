@@ -1,0 +1,15 @@
+C:\Users\bobza\OneDrive\Рабочий стол\GeekBrains\c#\exampeles\exampele001_HelloWord\bin\Debug\net6.0\exampele001_HelloWord.exe
+C:\Users\bobza\OneDrive\Рабочий стол\GeekBrains\c#\exampeles\exampele001_HelloWord\bin\Debug\net6.0\exampele001_HelloWord.deps.json
+C:\Users\bobza\OneDrive\Рабочий стол\GeekBrains\c#\exampeles\exampele001_HelloWord\bin\Debug\net6.0\exampele001_HelloWord.runtimeconfig.json
+C:\Users\bobza\OneDrive\Рабочий стол\GeekBrains\c#\exampeles\exampele001_HelloWord\bin\Debug\net6.0\exampele001_HelloWord.dll
+C:\Users\bobza\OneDrive\Рабочий стол\GeekBrains\c#\exampeles\exampele001_HelloWord\bin\Debug\net6.0\exampele001_HelloWord.pdb
+C:\Users\bobza\OneDrive\Рабочий стол\GeekBrains\c#\exampeles\exampele001_HelloWord\obj\Debug\net6.0\exampele001_HelloWord.csproj.AssemblyReference.cache
+C:\Users\bobza\OneDrive\Рабочий стол\GeekBrains\c#\exampeles\exampele001_HelloWord\obj\Debug\net6.0\exampele001_HelloWord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bobza\OneDrive\Рабочий стол\GeekBrains\c#\exampeles\exampele001_HelloWord\obj\Debug\net6.0\exampele001_HelloWord.AssemblyInfoInputs.cache
+C:\Users\bobza\OneDrive\Рабочий стол\GeekBrains\c#\exampeles\exampele001_HelloWord\obj\Debug\net6.0\exampele001_HelloWord.AssemblyInfo.cs
+C:\Users\bobza\OneDrive\Рабочий стол\GeekBrains\c#\exampeles\exampele001_HelloWord\obj\Debug\net6.0\exampele001_HelloWord.csproj.CoreCompileInputs.cache
+C:\Users\bobza\OneDrive\Рабочий стол\GeekBrains\c#\exampeles\exampele001_HelloWord\obj\Debug\net6.0\exampele001_HelloWord.dll
+C:\Users\bobza\OneDrive\Рабочий стол\GeekBrains\c#\exampeles\exampele001_HelloWord\obj\Debug\net6.0\refint\exampele001_HelloWord.dll
+C:\Users\bobza\OneDrive\Рабочий стол\GeekBrains\c#\exampeles\exampele001_HelloWord\obj\Debug\net6.0\exampele001_HelloWord.pdb
+C:\Users\bobza\OneDrive\Рабочий стол\GeekBrains\c#\exampeles\exampele001_HelloWord\obj\Debug\net6.0\exampele001_HelloWord.genruntimeconfig.cache
+C:\Users\bobza\OneDrive\Рабочий стол\GeekBrains\c#\exampeles\exampele001_HelloWord\obj\Debug\net6.0\ref\exampele001_HelloWord.dll
