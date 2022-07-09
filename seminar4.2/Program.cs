@@ -21,11 +21,6 @@ int i = 1;
 while(i<=N){
     result*=i;
     i++;
+    Console.WriteLine(result);
 }
-Console.WriteLine(result);
-
-
-
-
-
 
