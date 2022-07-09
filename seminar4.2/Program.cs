@@ -17,27 +17,4 @@
 
 
 
-////// СЕМИНАР 4. 
-////// ----------
 
-
-//// 4. ВЫВОД МАССИВА В ТЕРМИНАЛ.
-// int [] array = { 1,2,3,4,5};
-// Console.WriteLine($"[{string.Join("; ", array)}]");
-
-
-//// 4. Вывод значения элемента под нужным индексом из переменной string в консоль
-// string test = "hello";
-// Console.WriteLine(test[1]);
-
-
-//// 4. вывод значения переменной strung в консоль
-// string test = "hello";
-// Console.WriteLine(test);
-
-
-//// 4. проверка значения переменой  test на то, что является ли она числом или нет
-// string test = "12345";
-// int result;
-// Console.WriteLine(int.TryParse(test, out result));
-// Console.WriteLine(test);
