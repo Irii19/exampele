@@ -1,0 +1,15 @@
+C:\Users\bobza\OneDrive\Рабочий стол\GeekBrains\c#\exampeles\seminar5DZ\obj\Debug\net6.0\seminar5DZ.csproj.AssemblyReference.cache
+C:\Users\bobza\OneDrive\Рабочий стол\GeekBrains\c#\exampeles\seminar5DZ\obj\Debug\net6.0\seminar5DZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bobza\OneDrive\Рабочий стол\GeekBrains\c#\exampeles\seminar5DZ\obj\Debug\net6.0\seminar5DZ.AssemblyInfoInputs.cache
+C:\Users\bobza\OneDrive\Рабочий стол\GeekBrains\c#\exampeles\seminar5DZ\obj\Debug\net6.0\seminar5DZ.AssemblyInfo.cs
+C:\Users\bobza\OneDrive\Рабочий стол\GeekBrains\c#\exampeles\seminar5DZ\obj\Debug\net6.0\seminar5DZ.csproj.CoreCompileInputs.cache
+C:\Users\bobza\OneDrive\Рабочий стол\GeekBrains\c#\exampeles\seminar5DZ\bin\Debug\net6.0\seminar5DZ.exe
+C:\Users\bobza\OneDrive\Рабочий стол\GeekBrains\c#\exampeles\seminar5DZ\bin\Debug\net6.0\seminar5DZ.deps.json
+C:\Users\bobza\OneDrive\Рабочий стол\GeekBrains\c#\exampeles\seminar5DZ\bin\Debug\net6.0\seminar5DZ.runtimeconfig.json
+C:\Users\bobza\OneDrive\Рабочий стол\GeekBrains\c#\exampeles\seminar5DZ\bin\Debug\net6.0\seminar5DZ.dll
+C:\Users\bobza\OneDrive\Рабочий стол\GeekBrains\c#\exampeles\seminar5DZ\bin\Debug\net6.0\seminar5DZ.pdb
+C:\Users\bobza\OneDrive\Рабочий стол\GeekBrains\c#\exampeles\seminar5DZ\obj\Debug\net6.0\seminar5DZ.dll
+C:\Users\bobza\OneDrive\Рабочий стол\GeekBrains\c#\exampeles\seminar5DZ\obj\Debug\net6.0\refint\seminar5DZ.dll
+C:\Users\bobza\OneDrive\Рабочий стол\GeekBrains\c#\exampeles\seminar5DZ\obj\Debug\net6.0\seminar5DZ.pdb
+C:\Users\bobza\OneDrive\Рабочий стол\GeekBrains\c#\exampeles\seminar5DZ\obj\Debug\net6.0\seminar5DZ.genruntimeconfig.cache
+C:\Users\bobza\OneDrive\Рабочий стол\GeekBrains\c#\exampeles\seminar5DZ\obj\Debug\net6.0\ref\seminar5DZ.dll
