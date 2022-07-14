@@ -23,7 +23,7 @@
 //     myarray[i] = new Random().Next(99, 1000);
 //     if(myarray[i]%2== 0){
 //         count++;
-//     }
+//    }
 
 // }
 // Console.WriteLine($"[{string.Join(", ", myarray)}]");
@@ -62,7 +62,7 @@
 // double max = myarray[0];
 // double min = myarray[0];
 
-//// ВАРИАНТ 1
+// // ВАРИАНТ 1
 // for (int i = 0; i < myarray.Length; i++)
 // {
 //    myarray[i] = new Random().NextDouble();
@@ -76,19 +76,17 @@
 // Console.WriteLine();
 // Console.WriteLine($"разница между максимальным и минимальным значение: {max - min} ");
 
-//// ВАРИАНТ 2
+// ВАРИАНТ 2
 
 Console.Write("введите чесло для создания массива: ");
 int size = Convert.ToInt32(Console.ReadLine());
 double [] myarray = new double [size];
 
-for (int i = 0; i < myarray.Length; i++)
-{
-   myarray[i] = new Random().NextDouble();
-}
-
- Console.WriteLine( $"[{string.Join(", ", myarray)}]");
- double max = myarray[0];
+for (int i = 0; i < myarray.Length; i++){
+   myarray[i] = Math.Round(new Random().NextDouble(), 2);
+   }
+Console.WriteLine( $"\n[{string.Join("; ", myarray)}]");
+double max = myarray[0];
 double min = myarray[0];
 
 for (int i = 1; i < myarray.Length; i++)
@@ -103,9 +101,6 @@ for (int i = 1; i < myarray.Length; i++)
    }
 }
  
-
-Console.WriteLine();
-Console.WriteLine(max);
-Console.WriteLine(min);
-Console.WriteLine();
-Console.WriteLine($"разница между максимальным и минимальным значение: {max - min} ");
+ Console.WriteLine("\n" + max);
+Console.WriteLine("\n" + min);
+Console.WriteLine($"\n разница между максимальным и минимальным значение: {max - min} ");

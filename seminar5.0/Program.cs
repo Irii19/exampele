@@ -51,13 +51,13 @@
 // Console.WriteLine($"[{string.Join("; ", myarray)}]");
 
 
-////// 5. Задача 33: Задайте массив. Напишите программу, которая 
-// определяет, присутствует ли заданное число в массиве.
+// /////  5. Задача 33: Задайте массив. Напишите программу, которая 
+//  определяет, присутствует ли заданное число в массиве.
 // 4; массив [6, 7, 19, 345, 3] -> нет
 // -3; массив [6, 7, 19, 345, 3] -> да
 
-//// ВАРИАНТ 1
-//// РАБОТАЕТ
+// // ВАРИАНТ 1
+// // РАБОТАЕТ
 // int [] myarray = new [] {1,2,3,4,5,6};
 // Console.WriteLine($"[{string.Join("; ", myarray)}]");
 
@@ -81,7 +81,7 @@
 //     }
 //  }
 
-////ВАРИАНТ 2
+// //ВАРИАНТ 2
 // int [] myarray = new [] {1,2,3,4,5,6};
 // Console.WriteLine($"[{string.Join("; ", myarray)}]");
 // int number = new Random().Next(1, 10);
@@ -108,40 +108,35 @@
 ////// 5. Задача 35: Задайте одномерный массив из 123 случайных чисел. Найдите количество 
 // элементов массива, значения которых лежат в отрезке [10,99]. 
 // Пример для массива из 5, а не 123 элементов. В своём решении сделайте для 123
-// [5, 18, 123, 6, 2] -> 1
-// [1, 2, 3, 6, 2] -> 0
-// [10, 11, 12, 13, 14] -> 5
+// [5, 18, 123, 6, 2] -> 1    [1, 2, 3, 6, 2] -> 0
+
+////// не работает
+int [] myarray = new int [10];
+for (int i = 0; i < myarray.Length; i++)
+{
+    myarray[i] = new Random().Next(1, 200);
+}
+Console.WriteLine($"[{string.Join(", ", myarray)}]");
+int index = 0;
+int count = 0;
+while (index< myarray.Length)
+{
+    index++;
+    if(myarray[index]>=10 && myarray[index]<=99)
+    {
+        count++;
+    }
+}
+Console.WriteLine(count);
 
 // int [] myarray = new int [10];
+// int count = 0;
 
 // for (int i = 0; i < myarray.Length; i++)
 // {
 //     myarray[i] = new Random().Next(1, 200);
-// }
-// Console.WriteLine($"[{string.Join(", ", myarray)}]");
-
-// int index = 0;
-// int count = 0;
-// while (index< myarray.Length)
-// {
-//     index++;
-
-//     if(myarray[index]>=10 && myarray[index]<=99)
-//     {
+//     if(myarray[i]>=10 && myarray[i]<=99){
 //         count++;
 //     }
-    
 // }
-// Console.WriteLine(count);
-
-int [] myarray = new int [10];
-int count = 0;
-
-for (int i = 0; i < myarray.Length; i++)
-{
-    myarray[i] = new Random().Next(1, 200);
-    if(myarray[i]>=10 && myarray[i]<=99){
-        count++;
-    }
-}
-Console.WriteLine($"[{string.Join(", ", myarray)}] , количество: {count}");
+// Console.WriteLine($"[{string.Join(", ", myarray)}] , количество: {count}");
