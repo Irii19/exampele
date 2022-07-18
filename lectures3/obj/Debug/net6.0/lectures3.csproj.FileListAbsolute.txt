@@ -1,0 +1,15 @@
+C:\Users\bobza\OneDrive\Рабочий стол\GeekBrains\c#\exampeles\lectures3\obj\Debug\net6.0\lectures3.csproj.AssemblyReference.cache
+C:\Users\bobza\OneDrive\Рабочий стол\GeekBrains\c#\exampeles\lectures3\obj\Debug\net6.0\lectures3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bobza\OneDrive\Рабочий стол\GeekBrains\c#\exampeles\lectures3\obj\Debug\net6.0\lectures3.AssemblyInfoInputs.cache
+C:\Users\bobza\OneDrive\Рабочий стол\GeekBrains\c#\exampeles\lectures3\obj\Debug\net6.0\lectures3.AssemblyInfo.cs
+C:\Users\bobza\OneDrive\Рабочий стол\GeekBrains\c#\exampeles\lectures3\obj\Debug\net6.0\lectures3.csproj.CoreCompileInputs.cache
+C:\Users\bobza\OneDrive\Рабочий стол\GeekBrains\c#\exampeles\lectures3\bin\Debug\net6.0\lectures3.exe
+C:\Users\bobza\OneDrive\Рабочий стол\GeekBrains\c#\exampeles\lectures3\bin\Debug\net6.0\lectures3.deps.json
+C:\Users\bobza\OneDrive\Рабочий стол\GeekBrains\c#\exampeles\lectures3\bin\Debug\net6.0\lectures3.runtimeconfig.json
+C:\Users\bobza\OneDrive\Рабочий стол\GeekBrains\c#\exampeles\lectures3\bin\Debug\net6.0\lectures3.dll
+C:\Users\bobza\OneDrive\Рабочий стол\GeekBrains\c#\exampeles\lectures3\bin\Debug\net6.0\lectures3.pdb
+C:\Users\bobza\OneDrive\Рабочий стол\GeekBrains\c#\exampeles\lectures3\obj\Debug\net6.0\lectures3.dll
+C:\Users\bobza\OneDrive\Рабочий стол\GeekBrains\c#\exampeles\lectures3\obj\Debug\net6.0\refint\lectures3.dll
+C:\Users\bobza\OneDrive\Рабочий стол\GeekBrains\c#\exampeles\lectures3\obj\Debug\net6.0\lectures3.pdb
+C:\Users\bobza\OneDrive\Рабочий стол\GeekBrains\c#\exampeles\lectures3\obj\Debug\net6.0\lectures3.genruntimeconfig.cache
+C:\Users\bobza\OneDrive\Рабочий стол\GeekBrains\c#\exampeles\lectures3\obj\Debug\net6.0\ref\lectures3.dll
