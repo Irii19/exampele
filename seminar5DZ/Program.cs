@@ -83,7 +83,7 @@ int size = Convert.ToInt32(Console.ReadLine());
 double [] myarray = new double [size];
 
 for (int i = 0; i < myarray.Length; i++){
-   myarray[i] = Math.Round(new Random().NextDouble(), 2);
+   myarray[i] = Math.Round(new Random().NextDouble(), 2); // два знака после запятой
    }
 Console.WriteLine( $"\n[{string.Join("; ", myarray)}]");
 double max = myarray[0];
