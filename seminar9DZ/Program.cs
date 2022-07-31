@@ -54,15 +54,15 @@
 // M = 4; N = 8. -> 30
 
 Console.Write("введите число для начала отсчёта: ");
-int s = Convert.ToInt32(Console.ReadLine());
+int startReport = Convert.ToInt32(Console.ReadLine());
 Console.Write("введите число для оконания отчета: ");
-int e = Convert.ToInt32(Console.ReadLine());
+int endReport = Convert.ToInt32(Console.ReadLine());
 
 int Sum(int start, int end)
 {
     if(start > end) return 0;
     return start + Sum(start + 1, end);
 }
-Console.WriteLine(Sum(s, e));
+Console.WriteLine(Sum(startReport, endReport));
 
 
